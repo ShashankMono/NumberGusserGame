@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\bin\Debug\net8.0\NumberGusserGame.exe
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\bin\Debug\net8.0\NumberGusserGame.deps.json
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\bin\Debug\net8.0\NumberGusserGame.runtimeconfig.json
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\bin\Debug\net8.0\NumberGusserGame.dll
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\bin\Debug\net8.0\NumberGusserGame.pdb
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\obj\Debug\net8.0\NumberGusserGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\obj\Debug\net8.0\NumberGusserGame.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\obj\Debug\net8.0\NumberGusserGame.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\obj\Debug\net8.0\NumberGusserGame.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\obj\Debug\net8.0\NumberGusserGame.dll
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\obj\Debug\net8.0\refint\NumberGusserGame.dll
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\obj\Debug\net8.0\NumberGusserGame.pdb
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\obj\Debug\net8.0\NumberGusserGame.genruntimeconfig.cache
+D:\monocept_c# learning\Assignment\NumberGusserGame\NumberGusserGame\obj\Debug\net8.0\ref\NumberGusserGame.dll
